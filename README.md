@@ -1,3 +1,8 @@
-# **Simple Analysis of Correlation and Causal Relation**
+## **Simple Analysis of Correlation and Causal Relation**
 
-###### This is simple analysis using linier regression, this problem easy to understand.
+    [x] Describe  
+    [x] Linier Data Visualization
+    [x] Correlation Coefisien
+    [x] Visualization Correlation using Heatmap
+    [x] Simple Linear Regression
+    [x] R2 Score
